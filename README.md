@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Olá! Meu nome é Matheus de Deus.
+
+💻 Atualmente, estou cursando o 3º ano de Desenvolvimento de Sistemas, aprimorando meus conhecimentos em tecnologia e programação.
+
+🇺🇸 Também tenho formação em Inglês Técnico pelo CENAIC, ampliando minhas habilidades para o mundo da tecnologia.
+
+🚀 Sempre em busca de novos conhecimentos, desafios e oportunidades para evoluir na área de TI!
 
 <!--
 **Matheusdedeus/Matheusdedeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
